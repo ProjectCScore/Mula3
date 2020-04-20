@@ -1,3 +1,9 @@
+## identity
+- who are you
+- are you a robot
+- what are you
+- who is this
+
 ## intent:covid
 - corona virus
 - coronavirus
