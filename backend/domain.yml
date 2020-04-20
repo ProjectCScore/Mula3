@@ -180,20 +180,9 @@ responses:
   - text: Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. 
       Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.
       Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
-      Please refer to the image below on how to prevent the covid 19 virus.
     image: "https://res.cloudinary.com/dj9ywvcsj/image/upload/v1587333793/coronavirusblogimages1800x666.gif"
-  utter_covid:
-  - text: I am Mula, your paadi. Let make money together.
-    image: https://res.cloudinary.com/dj9ywvcsj/image/upload/v1584535078/WhatsApp_Image_2019-10-30_at_3.45.39_PM.jpg
-    buttons:
-    - title: Learn about Tradefi, ask me any question
-      payload: /tradefi
-    - title: Talk to our Expert
-      payload: /connect_expert
 
 actions:
-- utter_identity
-- utter_covid
 - utter_fine
 - utter_greet
 - utter_transfer

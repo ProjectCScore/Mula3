@@ -390,12 +390,3 @@
     - utter_tradefi
 * tradefi
     - utter_tradefi
-
-## New story
-* identity
-    - utter_identity
-
-## New story
-* identity
-    - utter_identity
-
