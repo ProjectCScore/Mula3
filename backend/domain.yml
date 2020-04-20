@@ -186,10 +186,10 @@ responses:
   - text: I am Mula, your paadi. Let make money together.
     image: https://res.cloudinary.com/dj9ywvcsj/image/upload/v1584535078/WhatsApp_Image_2019-10-30_at_3.45.39_PM.jpg
     buttons:
-      - title: Learn about Tradefi, ask me any question
-        payload: /tradefi
-      - title: Talk to our Expert
-        payload: /connect_expert
+    - title: Learn about Tradefi, ask me any question
+      payload: /tradefi
+    - title: Talk to our Expert
+      payload: /connect_expert
 
 actions:
 - utter_identity
